@@ -1,11 +1,11 @@
 # CIS-First-Year-Roadmap-2022
 
 ## Index:
-- Subjects For All Department
+- [Subjects For All Department](#Subjects-For-All-Department)
 - [General Department Subjects](#General-Department-Subjects)
-- Bioinformatics Department Subjects
-- Artificial Intelligence Department Subjects
-- Software Engineering Department Subjects
+- [Bioinformatics Department Subjects](#Bioinformatics-Department-Subjects)
+- [Artificial Intelligence Department Subjects](#Artificial-Intelligence-Department-Subjects)
+- [Software Engineering Department Subjects](#Software-Engineering-Department-Subjects)
 
 
 ## Subjects For All Department
