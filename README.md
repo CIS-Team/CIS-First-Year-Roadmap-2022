@@ -29,6 +29,32 @@ _Work in Progress_
 
 4. [Book: Beginning C# OOP - Dan Clark](https://link.springer.com/book/10.1007/978-1-4302-4936-8)
 
+#### Probability & Statistics
+**Arabic Resources**
+1. Course: [Dr. Mostafa Hosseini](https://www.youtube.com/watch?v=3iMr419Gg1E&list=PL-cKUB-e2KiuXuUQ9POZoayIOV2oOs5GL)
+2. [Course: Dr. Waleed Yousef](https://www.youtube.com/playlist?list=PL158D091D26F47358)
+
+**English Resources:**
+
+3. [Course: Khan Academy ](https://www.youtube.com/playlist?list=PLC58778F28211FA19)
+4. [Book By: Raymond H.Myers - Probability and Statistics](https://math.buet.ac.bd/public/faculty_profile/files/835598806.pdf)
+
+#### Logic Circuits
+**Arabic Resources**
+1. [Course By: DR. Mostafa Hosseini](https://www.youtube.com/watch?v=kkJP4U5Ps9E&list=PL-cKUB-e2KitJ7eFBnx0Q-4u2LQqWVYTM)
+2. [Course By: Dr. Waleed Yousef](https://youtube.com/playlist?list=PLZNz7wrFA85Antgz1o79xCn1O2nwDEkLH)
+
+**English Resources**
+3. [Book by: M. Morris Mano - Digital design](http://www.portcity.edu.bd/files/636444791235373856_Digitallogicdesign.pdf)
+
+#### Calculus
+**Arabic Resources**
+1. [DR. Ahmed Hagag](https://www.youtube.com/playlist?list=PLxIvc-MGOs6hMiR2Xis-mJ1sXNwWsZ1Bh)
+
+**English Resources**
+
+2. [Book By: Martin Gardner - Calculus Made easy](https://www.ysk-books.com/ar/show/book/calculus-made-easy-pdf)
+
 ## General Department Subjects
 
 ### Current Contributions
@@ -38,6 +64,8 @@ _Work in Progress_
 
 
 ### External Resources 
+#### IS
+1. [Introduction to Information Systems - Mohamed Desoky](https://www.youtube.com/watch?v=ITJRTb6Yv1Y&list=PL1DUmTEdeA6LXpHtaTyRBok5XnpNzRIfA)
 
 ## Bioinformatics Department Subjects
 
@@ -45,9 +73,12 @@ _Work in Progress_
 
 
 ### Previous Contributions
-
+#### Pathology
+1. [Pathology Telegram Channel](https://t.me/+c14kkMU77XowYTI0)
 
 ### External Resources 
+#### Pathology
+1. [Book: Robbins Basic Pathology](https://www.elsevier.com/books/robbins-basic-pathology/kumar/978-0-323-35317-5)
 
 ## Software Engineering Department Subjects
 
