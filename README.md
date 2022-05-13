@@ -10,15 +10,16 @@
 
 ## Subjects For All Department
 
-### Current Contributions
+### Current Contributions 
+_Work in Progress_
 
-#### OOP
-1. [OOP](http://google.com/)
 
 ### Previous Contributions
-- [Drive For All General Department Subjects](https://drive.google.com/drive/folders/1O0xNCNSvL4S6U66T4p7TtLGehfWTOGAy)
+- [Drive For All General Department Subjects](https://drive.google.com/drive/folders/1T4qALXQB1YluKIVa4hl9fxuJ19iFg2WZ)
 
 ### External Resources 
+#### OOP
+1. [Eng. Mohamed Saad: OOP C# Course | Class C# | دورة البرمجة الشيئية](https://www.youtube.com/playlist?list=PLZyQU-WOzZF2g5PCSHfhHvoX7BnCUn3Md)
 
 
 
