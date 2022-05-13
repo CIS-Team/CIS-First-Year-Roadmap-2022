@@ -86,3 +86,4 @@ _Work in Progress_
 ### External Resources
 #### IS
 1. [Introduction to Information Systems - Mohamed Desoky](https://www.youtube.com/watch?v=ITJRTb6Yv1Y&list=PL1DUmTEdeA6LXpHtaTyRBok5XnpNzRIfA)
+
