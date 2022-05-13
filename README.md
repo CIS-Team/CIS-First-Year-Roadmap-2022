@@ -45,7 +45,6 @@ _Work in Progress_
 
 [General Department Subjects](https://drive.google.com/drive/folders/1VoMpma9UCPMx3SQ0KadlPTfMF7CTAipO)
 
-### Previous Contributions
 
 
 ### External Resources 
@@ -59,7 +58,6 @@ _Work in Progress_
 
 [Bioinformatics Department Subjects](https://drive.google.com/drive/folders/1Vjoz4JgfUxLsfBVcVdgBpvcMawG0TS_N)
 
-### Previous Contributions
 #### Pathology
 1. [Pathology Telegram Channel](https://t.me/+c14kkMU77XowYTI0)
 
