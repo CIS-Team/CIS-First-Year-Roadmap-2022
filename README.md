@@ -10,10 +10,6 @@
 
 ## Subjects For All Department
 
-### Current Contributions 
-_Work in Progress_
-
-
 ### Previous Contributions
 - [Drive For All General Department Subjects](https://drive.google.com/drive/folders/1T4qALXQB1YluKIVa4hl9fxuJ19iFg2WZ)
 
@@ -47,6 +43,8 @@ _Work in Progress_
 ### Current Contributions
 _Work in Progress_
 
+[General Department Subjects](https://drive.google.com/drive/folders/1VoMpma9UCPMx3SQ0KadlPTfMF7CTAipO)
+
 ### Previous Contributions
 
 
@@ -58,6 +56,8 @@ _Work in Progress_
 
 ### Current Contributions
 _Work in Progress_
+
+[Bioinformatics Department Subjects](https://drive.google.com/drive/folders/1Vjoz4JgfUxLsfBVcVdgBpvcMawG0TS_N)
 
 ### Previous Contributions
 #### Pathology
@@ -72,6 +72,8 @@ _Work in Progress_
 ### Current Contributions 
 _Work in Progress_
 
+[Software Engineering Department Subjects](https://drive.google.com/drive/folders/1VjgPUqcfoyltBvy5auO1JrKWDdGRTqn9)
+
 
 ### External Resources
 #### IS
@@ -81,6 +83,8 @@ _Work in Progress_
 
 ### Current Contributions
 _Work in Progress_
+
+[Artificial Intelligence Department Subjects](https://drive.google.com/drive/folders/1VxYU6J2Bu5iTatWax6bTdGdlsH09pAzL)
 
 
 ### External Resources
