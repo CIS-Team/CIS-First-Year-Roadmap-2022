@@ -19,10 +19,15 @@ _Work in Progress_
 
 ### External Resources 
 #### OOP
+**Arabic Resources**
 1. [Eng. Mohamed Saad: OOP C# Course | Class C# | دورة البرمجة الشيئية](https://www.youtube.com/playlist?list=PLZyQU-WOzZF2g5PCSHfhHvoX7BnCUn3Md)
 
+2. [ Muhammed Shushan: OOP C# Course ](https://www.youtube.com/watch?v=ysMDD3Rdb-A&list=PLnzqK5HvcpwQfXeFaGHRYQfyQrJjOy43u)
 
+**English Resources**
+3. [C# Intermediate: Classes, Interfaces and OOP - Mosh Hamedani](https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop/)
 
+4. [Book: Beginning C# OOP - Dan Clark](https://link.springer.com/book/10.1007/978-1-4302-4936-8)
 
 ## General Department Subjects
 
