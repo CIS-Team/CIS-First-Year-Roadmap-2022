@@ -15,7 +15,7 @@ _Work in Progress_
 
 
 ### Previous Contributions
-- [Drive For All General Department Subjects](https://drive.google.com/drive/folders/1T4qALXQB1YluKIVa4hl9fxuJ19iFg2WZ)
+- [Drive For All Departments Subjects](https://drive.google.com/drive/folders/1T4qALXQB1YluKIVa4hl9fxuJ19iFg2WZ)
 
 ### External Resources 
 #### OOP
