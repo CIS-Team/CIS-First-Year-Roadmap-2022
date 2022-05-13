@@ -45,7 +45,7 @@ _Work in Progress_
 ## General Department Subjects
 
 ### Current Contributions
-
+_Work in Progress_
 
 ### Previous Contributions
 
@@ -57,7 +57,7 @@ _Work in Progress_
 ## Bioinformatics Department Subjects
 
 ### Current Contributions
-
+_Work in Progress_
 
 ### Previous Contributions
 #### Pathology
@@ -69,22 +69,11 @@ _Work in Progress_
 
 ## Software Engineering Department Subjects
 
-### Current Contributions
+### Current Contributions 
+_Work in Progress_
 
 
-### Previous Contributions
-
-
-### External Resources 
-
-## Artificial Intelligence Department Subjects
-
-### Current Contributions
-
-
-### Previous Contributions
-
-
-### External Resources 
-
+### External Resources
+#### IS
+1. [Introduction to Information Systems - Mohamed Desoky](https://www.youtube.com/watch?v=ITJRTb6Yv1Y&list=PL1DUmTEdeA6LXpHtaTyRBok5XnpNzRIfA)
 
