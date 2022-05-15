@@ -9,7 +9,7 @@ Divided according to departments, The subjects common to all departments are fou
 #### Each subject is divided into three main sections :
 - Previous contributions: resources from students from previous batches.
 - Current Contributions:  sources for our fellow batch members.
-- External sources: sources that you can use to help you study the material
+- External sources: sources that you can use to help you study the materials.
 
 ## Index:
 - [Subjects For All Department](#Subjects-For-All-Department)
