@@ -1,5 +1,16 @@
 # CIS-First-Year-Roadmap-2022
 
+## About Roadmap:
+> This is a roadmap for the first year of all departments in the Faculty of Computer and Information, which can help you study your subjects.
+
+## Content:
+Divided according to departments, The subjects common to all departments are found in the All Departments Section.
+
+#### Each subject is divided into three main sections :
+- Previous contributions: resources from students from previous batches.
+- Current Contributions:  sources for our fellow batch members.
+- External sources: sources that you can use to help you study the material
+
 ## Index:
 - [Subjects For All Department](#Subjects-For-All-Department)
 - [General Department Subjects](#General-Department-Subjects)
